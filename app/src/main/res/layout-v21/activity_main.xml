@@ -49,5 +49,5 @@
         android:layout_marginRight="10dp"
         android:layout_marginTop="20dp"
         android:backgroundTint="@color/colorPrimaryDark"
-        android:text="@string/submit" tools:targetApi="lollipop"/>
+        android:text="@string/submit" />
 </LinearLayout>

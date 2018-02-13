@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">TEST_APP</string>
+    <string name="email">edt_email</string>
+    <string name="password">edt_password</string>
+    <string name="confirmpassword">edt_confirmpassword</string>
+    <string name="submit">Submit</string>
+    <string name="ok">btn_submit</string>
+    <string name="error_empty">Sorry! please fill this input feild</string>
+    <string name="error_different">Passwords are different! Check it !</string>
+    <string name="greeting">WELCOME</string>
+    <string name="Name">tt_name</string>
+    <string name="username_email">UserName/Email</string>
+    <string name="passwords">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+
 </resources>
